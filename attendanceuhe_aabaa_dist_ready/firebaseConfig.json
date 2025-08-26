@@ -1,8 +1,0 @@
-{
-  "apiKey": "YOUR_API_KEY",
-  "authDomain": "attendanceuhe-aabaa.firebaseapp.com",
-  "projectId": "attendanceuhe-aabaa",
-  "storageBucket": "attendanceuhe-aabaa.appspot.com",
-  "messagingSenderId": "YOUR_MESSAGING_SENDER_ID",
-  "appId": "YOUR_APP_ID"
-}
